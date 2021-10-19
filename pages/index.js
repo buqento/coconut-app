@@ -18,25 +18,9 @@ function Home() {
       <Pesan
         message="Hari ini akan diadakan vaksin masal" title="Informasi"
         tampil={false}
-        image="https://imgur.com/gKQFTRR"
+        image="https://imgur.com/Xq0zu5S"
         time={1}
         />
-
-      <Pesan
-        message="Dilarang nyontek saat ujian berlangsung"
-        title="Peringatan"
-        tampil={true}
-        image="https://imgur.com/Xq0zu5S"
-        time={2}
-      />
-
-      <Pesan
-        message="Jangan mendekat, ada anjing galak"
-        title="Bahaya"
-        tampil={false}
-        image="https://imgur.com/jj1ldU4"
-        time={5}
-      />
 
 
       {/* {
